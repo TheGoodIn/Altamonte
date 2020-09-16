@@ -6,7 +6,6 @@
 # 🎉 Altamonte Release!
 
   - As of 9/16/2020 Altamonte is currently online and have full support
-  - This is the support server for it 
 
 # ℹ️ Information
 Altamonte is a moderation discord bot that includes commands like ban,mute,kick,purge and SO MANY MORE.
