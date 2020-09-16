@@ -13,6 +13,10 @@ Altamonte is a moderation discord bot that includes commands like ban,mute,kick,
 # 🎮 Roblox Features Built-in
 Run !enable to enable roblox features like verify using RoVer API's and a synced roblox leaker blacklist! This will help keep your server secure.
 
+# ⚙️ Setup
+
+Run !enable to turn on Roblox Features! Next you can do !verifyrole and then ping the role that you want to be the verfied role. Next do !muterole and then tag the mute role you want to be as the mute role! Also if you want to have high server security do !sync to sync your server with RASB! (I would recommend running this command 1 time a week to ban new blacklisted members)
+
 # 📨  Invite Altamonte Today
 
 
