@@ -1,7 +1,7 @@
 [![Build Status](https://cdn.discordapp.com/attachments/749451793854890085/755600355630252062/Alitmaote_logo_2.png)](https://discord.com/api/oauth2/authorize?client_id=608420941361315971&permissions=8&scope=bot)
 # Altamonte Multipurpose Discord Bot
 
-![Discord](https://img.shields.io/discord/729394556185084047?style=plastic)
+![Discord](https://img.shields.io/discord/729394556185084047?style=plastic) [
 
 # 🎉 Altamonte Release!
 
