@@ -16,10 +16,6 @@ Run !enable to enable roblox features like verify using RoVer API's and a synced
 
 # 📨  Invite Altamonte Today
 
-#
-#
-#
-#
 
 # ❗ Prefix
 Altamonte Prefix is !, Coming in V2 you will be able to change the prefix
